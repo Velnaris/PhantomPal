@@ -1,8 +1,8 @@
-# PhantomPal 👻
+# PhantomTavern 👻
 
 > A local-first AI roleplay chat app for Android.
 
-PhantomPal lets you chat and roleplay with AI characters using any OpenAI-compatible API — fully offline, fully private, no subscription required.
+PhantomTavern lets you chat and roleplay with AI characters using any OpenAI-compatible API — fully offline, fully private, no subscription required.
 
 <p align="center">
   <img src="assets/home.png" width="30%" />
@@ -22,7 +22,7 @@ PhantomPal lets you chat and roleplay with AI characters using any OpenAI-compat
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/Velnaris/PhantomPal/releases/latest">
+  <a href="https://github.com/Velnaris/PhantomTavern/releases/latest">
     <img src="https://img.shields.io/github/v/release/Velnaris/PhantomPal?style=for-the-badge&label=Download&color=7C3AED" />
   </a>
   <img src="https://img.shields.io/github/downloads/Velnaris/PhantomPal/total?style=for-the-badge&color=7C3AED" />
