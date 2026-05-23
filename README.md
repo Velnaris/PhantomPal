@@ -23,9 +23,9 @@ PhantomTavern lets you chat and roleplay with AI characters using any OpenAI-com
 
 <p align="center">
   <a href="https://github.com/Velnaris/PhantomTavern/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Velnaris/PhantomPal?style=for-the-badge&label=Download&color=7C3AED" />
+    <img src="https://img.shields.io/github/v/release/Velnaris/PhantomTavern?style=for-the-badge&label=Download&color=7C3AED" />
   </a>
-  <img src="https://img.shields.io/github/downloads/Velnaris/PhantomPal/total?style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/downloads/Velnaris/PhantomTavern/total?style=for-the-badge&color=7C3AED" />
 </p>
 
 ## 💬 Support & Community
