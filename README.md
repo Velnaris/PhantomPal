@@ -1,8 +1,8 @@
-# PhantomTavern 👻
+# Phantom Tavern 👻
 
 > A local-first AI roleplay chat app for Android.
 
-PhantomTavern lets you chat and roleplay with AI characters using any OpenAI-compatible API — fully offline, fully private, no subscription required.
+Phantom Tavern lets you chat and roleplay with AI characters using any OpenAI-compatible API — fully offline, fully private, no subscription required.
 
 <p align="center">
   <img src="assets/home.png" width="30%" />
@@ -31,6 +31,8 @@ PhantomTavern lets you chat and roleplay with AI characters using any OpenAI-com
 ## 💬 Support & Community
 
 - ❤️ [Patreon](https://www.patreon.com/posts/phantompal-1-2-1-158396470) — Support development & get updates
+- 🐛 [Report a bug](https://github.com/Velnaris/PhantomTavern/issues/new?template=bug_report.md) — Found something broken?
+- 💡 [Request a feature](https://github.com/Velnaris/PhantomTavern/issues/new?template=feature_request.md) — Have an idea?
 
 ## 📋 Requirements
 
